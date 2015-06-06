@@ -13,7 +13,7 @@
     "MIT"
   ],
   "require" : {
-    "mashape/unirest-php" : "02.6.0"
+    "mashape/unirest-php" : "2.5.0"
   },
   "autoload" : {
     "psr-0" : {
