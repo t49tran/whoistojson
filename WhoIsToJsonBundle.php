@@ -1,6 +1,6 @@
 <?php
 
-namespace WhoIsToJsonBundle;
+namespace t49tran\WhoIsToJsonBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

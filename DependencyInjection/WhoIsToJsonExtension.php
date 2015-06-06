@@ -1,6 +1,6 @@
 <?php
 
-namespace WhoIsToJsonBundle\DependencyInjection;
+namespace t49tran\WhoIsToJsonBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

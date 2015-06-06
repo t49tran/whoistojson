@@ -5,7 +5,7 @@
  * Date: 30/05/2015
  * Time: 3:51 PM
  */
-namespace WhoIsToJsonBundle\API;
+namespace t49tran\WhoIsToJsonBundle\API;
 
 use \Unirest;
 
