@@ -1,0 +1,3 @@
+who_is_to_json_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: WhoIsToJsonBundle:Default:index }

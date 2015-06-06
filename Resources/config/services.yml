@@ -1,0 +1,4 @@
+services:
+    whoistojson:
+       class: WhoIsToJsonBundle\API\WhoIsToJson
+       arguments: [%whoistojson.api_key%,%whoistojson.whois_end_point%,%whoistojson.screenshot_end_point%]
